@@ -1,0 +1,17 @@
+h1{
+    padding:20px;
+    color: lightblue
+}
+p{
+    padding:10px; 
+    margin:20px;
+    background: lightcoral; 
+    color: #FFFFFF
+}
+ul{
+    background: lightgreen;
+}
+
+{
+    border:1px solid lightgray;
+    color: lightcoral;
